@@ -1,4 +1,4 @@
-ONLINE_API="" # Define your Online API key. You can find it at https://console.online.net/fr/api/access 
+ONLINE_API="" # Define your Online API key. You can find it at https://console.online.net/fr/api/access
 DOMAIN="" ## Your domain name, eg : example.com
 SUB="" ## Your subdomain you want to update. For example, "home" for "home.example.com"
 
